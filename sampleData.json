@@ -2,10 +2,10 @@
  "name": "flare",
  "children": [
   {
-   "name": "analytics",
+   "name": "analytics1",
    "children": [
     {
-     "name": "cluster",
+     "name": "cluster1",
      "children": [
       {"name": "AgglomerativeCluster", "value": 3938},
       {"name": "CommunityStructure", "value": 3812},
